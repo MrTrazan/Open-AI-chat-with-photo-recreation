@@ -87,4 +87,4 @@ client.on("messageCreate", async (message) => {
 
 startServer();
 
-client.login("MTIxNTkzNTQzOTI2NjEyMzc5Ng.GD6_5N.TD-zbL2I59T5MdR9bmIAKWr-XFxZJBQSxs5LjE");
+client.login("DISCORD_TOKEN HEAE");
